@@ -7,7 +7,7 @@ Station	17,950.00 ISK	1	Ikuchi VI - Moon 15 - Ytiri Storage	78d 7h 41m 44s
 
 <color=white>880,000,000.00 ISK
 
-world
+world880000000
 */
 
 module.exports = [
