@@ -6,7 +6,7 @@ const WATCH_FREQ = 25;
 const watch = () => {
   ncp.paste((err, contents) => {
     if (err) {
-      console.log("Error getting clipboard", err);
+      // console.log("Error getting clipboard", err);
 
       setTimeout(watch, WATCH_FREQ);
       return;
