@@ -1,0 +1,11 @@
+{
+  "name": "copy-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joeyciechanowicz/copy-editor.git",
+  "author": "Joey Ciechanowicz <joeyciechanowicz@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "copy-paste": "^1.5.3"
+  }
+}
